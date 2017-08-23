@@ -44,37 +44,37 @@ header h1 {
 	padding-left: 0;
 	
 }
-nav a {
+aside a {
 color:#000;
 }
-nav a:hover {
+aside a:hover {
 /*text-decoration:underline;
 font-size:14px;*/
 }
-nav {
+aside {
 	float: left; 
 	width: 200px; 
 	padding: 15px 10px 15px 20px;
 }
-nav ul  {
+aside ul  {
 	margin: 0px;
 	padding-left: 20px;
 	line-height: 150%;
 }
-nav ul  li {
+aside ul  li {
 margin:10px 0;
 }
-nav ul  li a {
+aside ul  li a {
 	color:#000;
 	font-size:13px;
 	text-decoration:none;
 }
-nav ul  li a:hover {
+aside ul  li a:hover {
 	color:#000;
 	/* font-size:14px;*/ 
 	text-decoration:underline;
 }
-article { 
+main { 
 	width:680px;
 	padding: 0 20px; 
 	float:right;
